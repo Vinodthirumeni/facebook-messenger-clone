@@ -67,8 +67,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-
-
 PROJECT NAME : Facebook Messenger Clone
 
 TOOLS USED : ReactJs,Material UI,Firebase,React Flip Move,Firebase
